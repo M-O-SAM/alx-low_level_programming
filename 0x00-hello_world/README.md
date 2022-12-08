@@ -1,1 +1,1 @@
-ALX Student
+My C journey begins
