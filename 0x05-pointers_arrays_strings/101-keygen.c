@@ -21,6 +21,5 @@ int main(void)
 
 	printf("%c", 2772 - sum);
 
-
 	return (0);
 }
