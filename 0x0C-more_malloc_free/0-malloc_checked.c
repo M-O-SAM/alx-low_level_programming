@@ -3,10 +3,10 @@
 #include "main.h"
 /**
  * malloc_checked - A function that allocated memory using malloc.
- * @b: integer variables that holds the memory size
+ * @b: integer variable that holds the memory size
  * Return: 0 means program was succesful
  */
-void *malloc_checked(unsigned int b);
+void *malloc_checked(unsigned int b)
 {
 	void *ptr;
 
